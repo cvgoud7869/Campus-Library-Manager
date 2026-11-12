@@ -1,0 +1,13 @@
+Alice borrowed book successfully: Book: Python 101 by A. Rao (ID 1)
+Book already borrowed by someone: Item is not available
+Bob borrowed magazine successfully: Magazine: National Geographic with 25 (ID 101)
+Borrow failed: Borrow limit reached
+Book was not borrowed, to return: Item is not in the borrowed list
+Alice returned the book successfully: Book: Python 101 by A. Rao (ID 1)
+Book available: True
+Alice's borrowed items: []
+Bob's borrowed items: ['National Geographic']
+Book: Python 101 by A. Rao (ID 1) -> late fee for 3 days: Rs 6
+Magazine: National Geographic with 25 (ID 101) -> late fee for 3 days: Rs 3
+DVD: Interstellar with 169 (ID 102) -> late fee for 3 days: Rs 15
+Total items created: 3
